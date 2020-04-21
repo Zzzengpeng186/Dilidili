@@ -1,0 +1,195 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style: none;
+}
+.header{
+    width: 100%;
+    height: 105px;
+    background-color: #171a21;
+    /* overflow: hidden; */
+}
+.header-center{
+    width: 940px;
+    height: 100%;
+    margin: 0 auto;
+   /* margin-top: 20px; */
+   position: relative;
+}
+.header-center-img{
+    width: 176px;
+    height: 44px;
+    cursor: pointer;
+margin-top: 28px;
+float: left;
+}
+.navone{
+    width: 168px;
+    height: 68px;
+    /* background-color: #fff; */
+    position: absolute;
+    left: 200px;
+}
+.navone li{
+    display: block;
+    width: 25%;
+    float: left;
+    margin-top: 43px;
+    color: white;
+    font-size: 14px;
+    color: #b8b6b4;
+    cursor: pointer;
+}
+.navone li:hover{
+    color: white;
+}
+/* 商店 */
+.navone-shopping{
+    width: 75px;
+    height: 130px;
+    background-color: #171a21; 
+       position: absolute;
+    left: 200px;
+    top: 65px;
+    box-shadow:1px 1px 5px black ;
+    display: none;
+}
+.navone-shopping ul{
+    width: 100%;
+    height: 100%;
+}
+.navone-shopping li{
+    width: 100%;
+    height: 25%;
+    line-height: 32.5px;
+    cursor: pointer;
+}
+.navone-shopping p{
+    margin-left: 10px;
+    color: #b8b6b4;
+
+}
+.navone-shopping p:hover{
+    color: white;
+}
+/* 社区 */
+.navone-shequ{
+    width: 75px;
+    height: 155px;
+    background-color: #171a21; 
+       position: absolute;
+    left: 244px;
+    top: 65px;
+    box-shadow:1px 1px 5px black ;
+    display: none;
+}
+.navone-shequ li{
+    width: 100%;
+    height: 20%;
+    line-height: 31px;
+    cursor: pointer;
+}
+.navone-shequ p{
+    margin-left: 10px;
+    color: #b8b6b4;
+}
+.navone-shequ p:hover{
+    color: white;
+}
+/*  <!--安装 登录 语言 --> */
+.navone-right{
+    width: 222px;
+    height: 25px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+
+}
+.navone-a{
+    width: 107px;
+    height: 25px;
+    background-color: #5c7e10;
+    margin-top: 5px;
+    line-height: 25px;
+    text-align: center;
+    position: relative;
+    float: left;
+}
+.navone-right-img{
+    width: 16px;
+    height: 14px;
+    line-height: 25px;
+    position: absolute;
+    top: 5px;
+    left: 7px;
+    /* margin-right: 5px; */
+}
+.navone-a p{
+    margin-left: 15px;
+}
+.navone-right a{
+    color: white;
+    text-decoration: none;
+}
+.dlyy{
+width: 115px;
+height: 100%;
+/* background-color: #fff; */
+float: left;
+margin-top: 5px;
+/* text-align: center; */
+color: #b8b6b4;;
+}
+.dlyy-left{
+width: 52px;
+height: 60%;
+border-right: 1px solid #b8b6b4;
+float: left;
+}
+.dlyy-rigt{
+    width: 62px;
+height: 60%;
+float: left;
+}
+.dlyy-left-rigt-p{
+    text-align: center;
+}
+.dlyy p{
+    cursor: pointer;
+}
+.dlyy p:hover{
+color: white;
+}
+.dlyy-center{
+    margin-top: 5px;
+}
+.dlyy img{
+   position: absolute;
+   right: 0px;
+   top: 13px;
+   cursor: pointer;
+}
+.fanyi{
+    width: 308px;
+    height: 815px;
+    background-color: #171a21; 
+    /* background-color: pink; */
+    position: absolute;
+    top: 31px;
+    right: 0px;
+    box-shadow:1px 1px 5px black ;
+    display: none;
+}
+.fanyi li{
+    width: 100%;
+    height: 28px;
+    line-height: 28px;
+    font-size: 14px;
+    padding: 1px 0px;
+}
+.fanyi p{
+    margin-left: 10px;
+
+}
