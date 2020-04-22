@@ -27,4 +27,19 @@ dlyyright.onclick = function () {
     }
 
 }
+// nav栏
+var lunboboxnav = document.querySelector('.lunbobox-one-right-nav');
+var navdivs = lunboboxnav.querySelectorAll('div');
+var lunbonavitems = document.querySelectorAll('.lunbonav-item');
+for (var i = 0; i < navdivs.length; i++) {
+    navdivs[i].setAttribute('index', i)
+    // 对应的搜索框
+    navdivs[i].onmouseover = function () {
+        let index = this.getAttribute('index')
+        for (var j = 0; j < lunbonavitems.length; j++) {
+            lunbonavitems[j].style.display = 'none'
+        }
+        lunbonavitems[index].style.display = 'block'
+    }
+}
 
