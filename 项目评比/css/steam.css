@@ -201,7 +201,7 @@ color: white;
 .lunbobox-one{
     width: 100%;
     height: 1020px;
-    /* background-image: url(../Images/background_spotlight.jpg) ;
+    /* background-image: url(../Images/steam-Images/background_spotlight.jpg) ;
     background-repeat: no-repeat; */
     background: linear-gradient(to  bottom, #1a435f, #1b364a, #1b2838);
 }
@@ -263,7 +263,7 @@ color: white;
     display: inline-block;
     vertical-align: top;
     margin-right: 4px;
-    background-image: url(../Images/store_menu_icons.png);
+    background-image: url(../Images/steam-Images/store_menu_icons.png);
 }
 /* 右边盒子 */
 .lunbobox-one-right{
@@ -542,7 +542,7 @@ cursor: pointer;
 .arrow-left div{
     width: 23px;
     height: 36px;
-    background-image: url(../Images/arrows.png) ;
+    background-image: url(../Images/steam-Images/arrows.png) ;
     background-repeat: no-repeat;
     background-position: -23px 1px;
     position: absolute;
@@ -552,7 +552,7 @@ cursor: pointer;
 .arrow-right div{
     width: 23px;
     height: 36px;
-    background-image: url(../Images/arrows.png) ;
+    background-image: url(../Images/steam-Images/arrows.png) ;
     background-repeat: no-repeat;
     background-position: 0px 1px;
     position: absolute;
@@ -614,7 +614,7 @@ position: relative;
     width: 320px;
     height: 100%;
     float: left;
-    background-image: url(../Images/background_maincap_2.jpg);
+    background-image: url(../Images/steam-Images/background_maincap_2.jpg);
     position: relative;
     cursor: pointer;
 }
@@ -676,7 +676,7 @@ position: relative;
       height: 190px;
       float: left;
       box-shadow:1px 1px 5px black ;
-      background-image: url(../Images/background_spotlight.jpg);
+      background-image: url(../Images/steam-Images/background_spotlight.jpg);
       /* background-color:pink; */
   }
   .lunbobox2-divmove1{
@@ -745,7 +745,7 @@ color: #77cef5;
 .lunbobox2-arrow-left div{
     width: 23px;
     height: 36px;
-    background-image: url(../Images/arrows.png) ;
+    background-image: url(../Images/steam-Images/arrows.png) ;
     background-repeat: no-repeat;
     background-position: -23px 1px;
     position: absolute;
@@ -755,7 +755,7 @@ color: #77cef5;
 .lunbobox2-arrow-right div{
     width: 23px;
     height: 36px;
-    background-image: url(../Images/arrows.png) ;
+    background-image: url(../Images/steam-Images/arrows.png) ;
     background-repeat: no-repeat;
     background-position: 0px 1px;
     position: absolute;
@@ -857,7 +857,7 @@ color: #77cef5;
 .lunbobox3-arrow-left div{
     width: 23px;
     height: 36px;
-    background-image: url(../Images/arrows.png) ;
+    background-image: url(../Images/steam-Images/arrows.png) ;
     background-repeat: no-repeat;
     background-position: -23px 1px;
     position: absolute;
@@ -867,7 +867,7 @@ color: #77cef5;
 .lunbobox3-arrow-right div{
     width: 23px;
     height: 36px;
-    background-image: url(../Images/arrows.png) ;
+    background-image: url(../Images/steam-Images/arrows.png) ;
     background-repeat: no-repeat;
     background-position: 0px 1px;
     position: absolute;
@@ -1042,7 +1042,7 @@ color: #77cef5;
     height: 58px;
     box-shadow: 0 0 4px #000;
     border-radius: 3px;
-    background-image: url(../Images/background_spotlight.jpg);
+    background-image: url(../Images/steam-Images/background_spotlight.jpg);
     margin-right: 10px;
     line-height: 58px;
     text-align: center;
@@ -1056,7 +1056,7 @@ color: #77cef5;
     height: 58px;
     box-shadow: 0 0 4px #000;
     border-radius: 3px;
-    background-image: url(../Images/background_spotlight.jpg);
+    background-image: url(../Images/steam-Images/background_spotlight.jpg);
     margin-right: 10px;
     line-height: 58px;
     text-align: center;
@@ -1070,7 +1070,7 @@ color: #77cef5;
     height: 58px;
     box-shadow: 0 0 4px #000;
     border-radius: 3px;
-    background-image: url(../Images/background_spotlight.jpg);
+    background-image: url(../Images/steam-Images/background_spotlight.jpg);
     margin-right: 10px;
     line-height: 58px;
     text-align: center;
@@ -1084,7 +1084,7 @@ color: #77cef5;
     height: 58px;
     box-shadow: 0 0 4px #000;
     border-radius: 3px;
-    background-image: url(../Images/background_spotlight.jpg);
+    background-image: url(../Images/steam-Images/background_spotlight.jpg);
     line-height: 58px;
     text-align: center;
     font-size: 16px;
@@ -1180,7 +1180,7 @@ color: #77cef5;
 .lunbobox4-arrow-left div{
     width: 23px;
     height: 36px;
-    background-image: url(../Images/arrows.png) ;
+    background-image: url(../Images/steam-Images/arrows.png) ;
     background-repeat: no-repeat;
     background-position: -23px 1px;
     position: absolute;
@@ -1190,7 +1190,7 @@ color: #77cef5;
 .lunbobox4-arrow-right div{
     width: 23px;
     height: 36px;
-    background-image: url(../Images/arrows.png) ;
+    background-image: url(../Images/steam-Images/arrows.png) ;
     background-repeat: no-repeat;
     background-position: 0px 1px;
     position: absolute;
@@ -1428,7 +1428,7 @@ overflow: hidden;
 .Recommend-center-top{
     width: 100%;
     height: 34px;
-    background-image: url(../Images/tuijian-1.png);
+    background-image: url(../Images/steam-Images/tuijian-1.png);
     background-repeat: repeat-x;
     margin-top: 20px;
     position: relative;

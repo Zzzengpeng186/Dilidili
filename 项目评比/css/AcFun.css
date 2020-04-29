@@ -424,7 +424,7 @@ a{
     height: 28px;
     padding: 30px 30% 0 10px;
     line-height: 28px;
-    background: url(../Images/1.png) 0 bottom repeat-x;
+    background: url(../Images/AC-Images/1.png) 0 bottom repeat-x;
     color: white;
 }
 .lunbo-center-left ol {
@@ -472,7 +472,7 @@ a{
     bottom: 0;
     left: 0;
     line-height: 28px;
-    background: url(../Images/1.png) 0 bottom repeat-x;
+    background: url(../Images/AC-Images/1.png) 0 bottom repeat-x;
     color: white;
 }
 .lunbo-right-margin1{
@@ -969,7 +969,7 @@ a{
     height: 60px;
 }
 .end1{
-    background: url(../Images/end1.png) no-repeat 0 0;
+    background: url(../Images/AC-Images/end1.png) no-repeat 0 0;
     display: inline-block;
     width: 16px;
     height: 16px;
@@ -977,7 +977,7 @@ a{
     vertical-align: middle;
 }
 .end2{
-    background: url(../Images/end2.png) no-repeat 0 0;
+    background: url(../Images/AC-Images/end2.png) no-repeat 0 0;
     display: inline-block;
     width: 16px;
     height: 16px;
@@ -986,7 +986,7 @@ a{
     background-position: -16px 0;
 }
 .end3{
-    background: url(../Images/end3.png) no-repeat 0 0;
+    background: url(../Images/AC-Images/end3.png) no-repeat 0 0;
     display: inline-block;
     width: 16px;
     height: 16px;

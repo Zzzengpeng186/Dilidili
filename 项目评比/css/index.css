@@ -20,7 +20,7 @@ li {
 .topimg {
     width: 1200px;
     height: 100px;
-    background-image: url(../Images/top.jpg);
+    background-image: url(../Images/index-Images/top.jpg);
 }
 
 .topli {
@@ -112,7 +112,7 @@ background-color: #fefefe;
     /* position: absolute;
     top: 78px;
     left: 911px; */
-    background-image: url(../Images/jlt.png);
+    background-image: url(../Images/index-Images/jlt.png);
     background-position: center -288px;
     /* display: none; */
 
@@ -156,7 +156,7 @@ background-color: #fefefe;
     /* position: absolute;
     top: 78px;
     left: 911px; */
-    background-image: url(../Images/jlt.png);
+    background-image: url(../Images/index-Images/jlt.png);
     background-position: center 0px;
     display: none;
 }
@@ -198,7 +198,7 @@ background-color: #fefefe;
     /* position: absolute;
     top: 78px;
     left: 911px; */
-    background-image: url(../Images/jlt.png);
+    background-image: url(../Images/index-Images/jlt.png);
     background-position: center 30px;
     display: none;
 }
@@ -240,7 +240,7 @@ background-color: #fefefe;
     /* position: absolute;
     top: 78px;
     left: 911px; */
-    background-image: url(../Images/jlt.png);
+    background-image: url(../Images/index-Images/jlt.png);
     background-position: center 96px;
     display: none;
 }
@@ -283,7 +283,7 @@ background-color: #fefefe;
     /* position: absolute;
     top: 78px;
     left: 911px; */
-    background-image: url(../Images/jlt.png);
+    background-image: url(../Images/index-Images/jlt.png);
     background-position: center 450px;
     display: none;
 }
@@ -325,7 +325,7 @@ background-color: #fefefe;
     /* position: absolute;
     top: 78px;
     left: 911px; */
-    background-image: url(../Images/jlt.png);
+    background-image: url(../Images/index-Images/jlt.png);
     background-position: center -224px;
     display: none;
 }
@@ -367,7 +367,7 @@ background-color: #fefefe;
     /* position: absolute;
     top: 78px;
     left: 911px; */
-    background-image: url(../Images/jlt.png);
+    background-image: url(../Images/index-Images/jlt.png);
     background-position: center 289px;
     display: none;
 }
