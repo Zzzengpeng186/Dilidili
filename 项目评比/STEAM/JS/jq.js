@@ -83,6 +83,33 @@ $('.lunbobox3 ol li').on('click', function () {
     $('.lunbobox3-right ul li').stop().eq(index).fadeIn(800).siblings('li').fadeOut(800)
     $(this).addClass("current").siblings("li").removeClass("current")
 })
+// 第四个轮播图
+// jq轮播图
+let index3 = 0;
+$('.lunbobox4-arrow-right').on('click', function () {
+    index3++;
+    if (index3 > $('.lunbobox-three-center ul li').length - 1) {
+        index3 = 0;
+    }
+    $('.lunbobox-three-center ul li').eq(index3).fadeIn(500).siblings('li').fadeOut(500)
+    $('.lunbobox-three-center ol li').stop().eq(index3).addClass("current").siblings("li").removeClass("current")
+})
+$('.lunbobox4-arrow-left').on('click', function () {
+    index3--;
+    if (index3 < 0) {
+        index3 = $('.lunbobox-three-center ul li').length - 1;
+    }
+    $('.lunbobox-three-center ul li').eq(index3).fadeIn(500).siblings('li').fadeOut(500)
+    $('.lunbobox-three-center ol li').stop().eq(index3).addClass("current").siblings("li").removeClass("current")
+})
+
+// 圆点切换
+$('.lunbobox-three-center ol li').on('click', function () {
+    // console.log(this);
+    index = $(this).attr("name");
+    $('.lunbobox-three-center ul li').stop().eq(index).fadeIn(800).siblings('li').fadeOut(800)
+    $(this).addClass("current").siblings("li").removeClass("current")
+})
 // 自动播放
 setInterval(function () {
     $('.arrow-right').click();
